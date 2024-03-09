@@ -54,3 +54,6 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GoatMoaz/GoatMoaz/output/snake.svg" alt="Snake animation" />
