@@ -41,20 +41,20 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/goat-moaz/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/goat-moaz/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/TheGoatt/" target="_blanj">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282828&labelColor=&style=flat" height="35" alt="leetcode logo"  />
+  <a href="https://codeforces.com/profile/TheGoatt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=1C97D3&logoColor=white&style=flat" height="35" alt="codeforces logo"  />
+  </a>
+  <a href="https://leetcode.com/TheGoatt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=5C5C5C&style=flat" height="35" alt="leetcode logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/?authuser=ma5746@fayoum.edu.eg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/724616986214137998" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/moza.ayman.18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=flat" height="35" alt="facebook logo"  />
   </a>
 </div>
 
