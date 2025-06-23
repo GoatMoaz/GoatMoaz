@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GoatMoaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoatMoaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GoatMoaz&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
   <img  height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
   <img src="https://github-profile-trophy.vercel.app?username=GoatMoaz&theme=dracula&no-frame=true&no-bg=true&title=-Issues" height="150" alt="trophy graph"/>
 </div>
