@@ -1,10 +1,8 @@
-<h2 align="center">Hi 👋! My name is Moaz Ayman and I'm a passionate Full Stack Developer from Egypt</h2>
+<h2 align="center">Hi 👋! My name is Moaz Ayman, and I'm a passionate Full Stack Developer from Egypt</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoatMoaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoatMoaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img  height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
 </div>
 
